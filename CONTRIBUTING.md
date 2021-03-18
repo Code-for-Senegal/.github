@@ -71,7 +71,7 @@ Our collaboration model [is described here](WORKFLOW.md).
 
 ## About Code for Senegal
 
-We are community of volunteers (developers, ux/ui, communications, data scientists, graphic designers, devops, it security and more) who work pro-bono for developing digital solutions to solve social problems. #techforsocialgood. If you want to learn more details about our projects [visit our site](https://codeforsenegal.org) or if you want to talk to one of our staff members, please e-mail us at contact@code4.ro.
+We are community of volunteers (developers, ux/ui, communications, data scientists, graphic designers, devops, it security and more) who work pro-bono for developing digital solutions to solve social problems. #techforsocialgood. If you want to learn more details about our projects [visit our site](https://codeforsenegal.org) or if you want to talk to one of our staff members, please e-mail us at contact@codeforsenegal.org.
 
 ## Code of conduct
 
