@@ -1,4 +1,4 @@
-# Code pour le Sénégal ~ Gindikukaayu njañse yi
+# Code for Senegal ~ Gindikukaayu njañse yi
 
 :two_hearts: Li nuy njëkke mooy sant la ci yitte ci nga am ñeel naal bii tek ci jël sa waxtu ngir tàbbi ci!
 
