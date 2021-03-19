@@ -2,8 +2,8 @@
 
 :two_hearts: Li nuy njëkke mooy sant la ci yitte ci nga am ñeel naal bii tek ci jël sa waxtu ngir tàbbi ci!
 
-Naal wii, ay way defal -yàlla, yu mel ni yaw, yu wuute ay waxtuy barab, cosaan ak tolluwaayu ci man-mam ñoo ko def.
-Kon, ngir mu wóor ni noo tolloo dégg-dégg, doon na baax lool su nu toppee nun ñépp yenn tëraliin :two_hearts:
+Naal bii, ay way defal-yàlla, yu mel ni yaw, yu wuute ay waxtuy barab, cosaan ak tolluwaayu ci man-man ñoo ko def.
+Kon, ngir mu wóor ni noo tolloo dégg-dégg, doon na baax lool nu topp nun ñépp yenn tëraliin :two_hearts:
 
 [Jot xibaar](#feedback) | [ Naka laa man a ëndee njañse?](#how-can-i-contribute) | [ëfiin yi gën](#best-practices) | [Lu aju ci Code for Senegal](#about-code4ro) | [Tàbbal koom](#financial-contributions) | [Doxaliin](#code-of-conduct)
 
