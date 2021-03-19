@@ -1,4 +1,4 @@
-# Code pour le Sénégal ~ Guide de contribution
+# Code for Senegal ~ Guide de contribution
 
 :two_hearts: Tout d'abord, merci de l'intérêt que vous portez au projet et d'avoir pris le temps de contribuer!
 
