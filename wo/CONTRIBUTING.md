@@ -1,3 +1,5 @@
+[English](../CONTRIBUTING.md) | [Français](../fr/CONTRIBUTING.md)
+
 # Code for Senegal ~ Gindikukaayu njañse yi
 
 :two_hearts: Li nuy njëkke mooy sant la ci yitte ci nga am ñeel naal bii tek ci jël sa waxtu ngir tàbbi ci!
@@ -42,8 +44,8 @@ Ngir yónnee nu njañse, tijjil **issue** issue buy melal foŋsinaalite bi nga b
 :computer: Bëgg nanu nga rimb yoxo yi ci ban bi da di kode ci naal bi.
 
 Soo xamul fooy tàmbalee, man ngaa doore ci saytu jafe-jafe yi nu màndargale ni ki nii:
-* **Good first issue** ![#7057ff](https://placehold.it/15/7057ff/000000?text=+)
-* **Help wanted** ![#008672](https://placehold.it/15/008672/000000?text=+)
+* ![Good first issue](https://img.shields.io/badge/Good_first_issue-7057ff)
+* ![Help wanted](https://img.shields.io/badge/Help_wanted-008672)
 
 Nala wóor ni yaa ngi topp [jëfiin yi gën](#best-practices) yu kodaas yi nu taamu ak digle yii ngir ligeey ci git yi nekk ci suuf :wink:
 
