@@ -1,3 +1,5 @@
+[Français](fr/CONTRIBUTING.md) | [Wolof](wo/CONTRIBUTING.md)
+
 # Code for Senegal ~ Contributing guide
 
 :two_hearts: First off all, thank you for your interest in the project and for taking the time to contribute!
@@ -41,8 +43,8 @@ To send us a suggestion, just **open an issue** which describes the feature you 
 :computer: We'd love for you to get your hands dirty and code for the project.
 
 If you are unsure where to begin contributing to the project, you can start by looking through the issues labeled as:
-* **Good first issue** ![#7057ff](https://placehold.it/15/7057ff/000000?text=+)
-* **Help wanted** ![#008672](https://placehold.it/15/008672/000000?text=+)
+* ![Good first issue](https://img.shields.io/badge/Good_first_issue-7057ff)
+* ![Help wanted](https://img.shields.io/badge/Help_wanted-008672)
 
 Please make sure to check out the suggested coding [best practices](#best-practices) and tips with working with git below :wink:
 
