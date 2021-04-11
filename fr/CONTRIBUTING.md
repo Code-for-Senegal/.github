@@ -1,3 +1,5 @@
+[English](../CONTRIBUTING.md) | [Wolof](../wo/CONTRIBUTING.md)
+
 # Code for Senegal ~ Guide de contribution
 
 :two_hearts: Tout d'abord, merci de l'intérêt que vous portez au projet et d'avoir pris le temps de contribuer!
@@ -41,8 +43,8 @@ Pour nous envoyer une suggestion, ouvrez simplement **un issue** décrivant la f
 :computer: Nous serions ravis que vous mettiez la main à la pâte et codiez pour le projet.
 
 Si vous ne savez pas par où commencer à contribuer au projet, vous pouvez commencer par examiner les problèmes étiquetés comme suit:
-* **Good first issue** ![#7057ff](https://placehold.it/15/7057ff/000000?text=+)
-* **Help wanted** ![#008672](https://placehold.it/15/008672/000000?text=+)
+* ![Good first issue](https://img.shields.io/badge/Good_first_issue-7057ff)
+* ![Help wanted](https://img.shields.io/badge/Help_wanted-008672)
 
 Veuillez vous assurer de consulter les [meilleures pratiques](#best-practices) de codage suggérées et des conseils pour travailler avec git ci-dessous :wink:
 
